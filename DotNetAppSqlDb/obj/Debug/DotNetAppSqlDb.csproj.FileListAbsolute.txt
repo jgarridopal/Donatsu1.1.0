@@ -1,0 +1,270 @@
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\ApplicationInsights.config
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\EntityFramework.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.Razor.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\WebGrease.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\EntityFramework.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.Razor.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojAssemblyReference.cache
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CoreCompileInputs.cache
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CopyComplete
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+D:\MyKingdom\Business Room\Holmesglen\202010\MyCourses\BIS403\W11\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\ApplicationInsights.config
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\EntityFramework.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.Razor.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\WebGrease.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\EntityFramework.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.Razor.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb
+C:\Users\Sebastian\Desktop\MVC_Project\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\ApplicationInsights.config
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\EntityFramework.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.Razor.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\WebGrease.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\EntityFramework.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.Razor.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+C:\Users\Sebastian\Desktop\Donatsu\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\ApplicationInsights.config
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\EntityFramework.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.Razor.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\WebGrease.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\EntityFramework.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.Razor.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+C:\Users\Sebastian\Desktop\Sb\University\Semester 4\Web Design and Programming\Assignment\Assignments\Donatsu1.1\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\ApplicationInsights.config
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\EntityFramework.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Razor.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\WebGrease.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\EntityFramework.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Razor.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+C:\Users\Sebastian\Desktop\Sb\University\Projects\Assignment2_SebastianGarrido_100600388_WebDesign\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\ApplicationInsights.config
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\EntityFramework.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Razor.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\WebGrease.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\EntityFramework.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.Razor.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CopyComplete
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+C:\Users\sebas\Desktop\Sb\Holmesglen\Projects\Donatsu\Donatsu1.1\Donatsu1.1.0\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb

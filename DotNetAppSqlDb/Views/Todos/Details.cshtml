@@ -1,0 +1,67 @@
+﻿<!--
+   DESIGNER: Juan Sebastian Garrido Pallares (ID: 100600388) & Pei Shuen Beh (ID: 100599009)
+   EXERCISE: Assignment 2
+   TASK: CSHTML Document For DETAILS PAGE page
+-->
+
+
+@model DotNetAppSqlDb.Models.Todo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="container-fluid w-100" id="content">
+
+    <div class="row">
+
+        <div class="col-sm-1 col-xl-2"></div>
+
+        <div class="col-sm-10 col-xl-8" style="margin: 30px 0 30px 0;">
+
+            <h2>Details</h2>
+
+            <div>
+                <h4>Customer</h4>
+                <hr />
+                <dl class="dl-horizontal">
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.FirstName)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.FirstName)
+                    </dd>
+
+                    <dt>
+                    @Html.DisplayNameFor(model => model.LastName)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.LastName)
+                    </dd>
+
+                    <dt>
+                    @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.CustomerID }) |
+                @Html.ActionLink("Back to List", "ViewCustomers")
+            </p>
+        </div>
+
+
+
+    </div>
+
+    <div class="col-sm-1 col-xl-2"></div>
+
+</div>

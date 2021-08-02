@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\sebas\\Desktop\\Sb\\Holmesglen\\Projects\\Donatsu\\Donatsu1.1\\Donatsu1.1.0\\DotNetAppSqlDb\\DotNetAppSqlDb.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

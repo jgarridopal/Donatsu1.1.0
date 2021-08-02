@@ -1,0 +1,130 @@
+﻿<!--
+   DESIGNER: Juan Sebastian Garrido Pallares (ID: 100600388) & Pei Shuen Beh (ID: 100599009)
+   EXERCISE: Assignment 2
+   TASK: CSHTML Document For LAYOUT PAGE page
+-->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>@ViewBag.Title - DONATSU</title>
+
+    <!--Links-->
+    <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&family=Pangolin&display=swap" rel="stylesheet" />
+
+    <link rel="icon" href="~/images/pageLogo.png">
+
+
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/Site.css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+
+<body>
+
+    <!--Page Wrapper-->
+
+    <div id="page-wrapper" class="container-fluid w-100" style="padding: 0;">
+
+        <div class="col-12" style="padding: 0;">
+
+
+            <!--Page Header-->
+
+
+            <div id="header" class="container-fluid w-100">
+
+                <div class="row">
+
+                    <div class="col-sm-12 col-md-2"><img id="pageLogo" src="~/images/pageLogo.png" alt="DONATSU"></div>
+
+                    <div id="name" class="col-md-10 d-none d-md-block"><span class="d-none d-lg-block">DONATSU</span></div>
+
+
+                </div>
+
+            </div>
+
+
+
+            <!--Page navbar-->
+
+
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light" id="navbarList">
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse navbar-expand" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+
+                        <li class="nav-item">
+                            <a class="nav-link">@Html.ActionLink("HOME  ", "Index", "Todos")</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">@Html.ActionLink("ABOUT  ", "About", "Todos")</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">@Html.ActionLink("PRODUCTS  ", "Products", "Todos")</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">@Html.ActionLink("CONTACT  ", "Contact", "Todos")</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">@Html.ActionLink("SIGN UP  ", "Signup", "Todos")</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link">@Html.ActionLink("CUSTOMERS  ", "ViewCustomers", "Todos")</a>
+                        </li>
+                    </ul>
+
+                </div>
+            </nav>
+
+
+
+            @RenderBody()
+
+
+
+            <!--Footer-->
+
+
+            <footer>
+
+
+                <div class="container-fluid" id="footer">
+
+                    <span style="float: left;">&copy; 2020 All rights reserved, <b>DONATSU</b></span>
+                    <span style="float: right;" class="d-none d-xl-block">
+                        <img src="~/images/facebook.png" style="height: 23px; width:23px;" alt="Facebook">
+                        <img src="~/images/twitter.jpg" style="height: 23px; width:23px;" alt="Twitter">
+                        <img src="~/images/linkedin.jpg" style="height: 23px; width:23px;" alt="LinkedIn">
+                    </span>
+
+                </div>
+
+            </footer>
+
+        </div>
+
+    </div>
+
+
+    <!--Scripts-->
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>
